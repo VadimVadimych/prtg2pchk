@@ -1,6 +1,6 @@
 # PRTG2Pachka
 
-This is a fork of the original to fix some issues (e.g. JSON SSL, ordered hash to to generate JSON) and add some extras.
+This is a fork of the original to fix some issues (e.g. JSON SSL, ordered hash to generate JSON) and add some extras.
 This repository contains a PowerShell script (prtg2pchk.ps1) that can be used with PRTG Network Monitor to send a JSON-formatted alert payload to a Pachka messenger (Пачка).
 
 
